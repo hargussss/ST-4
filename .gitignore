@@ -1,0 +1,45 @@
+# Build artifacts
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+
+# IDE folders
+.vs/
+.vscode/
+
+# Test artifacts
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+# NuGet packages (keep lock files if you decide to use them)
+*.nupkg
+*.snupkg
+
+# Logs
+*.log
+
+# OS-generated files
+.DS_Store
+
+# Rider / ReSharper
+.idea/
+_ReSharper*/
+*.DotSettings.user
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+
+# Backup and temp files
+*.tmp
+*.temp
+*.bak
+*.swp
